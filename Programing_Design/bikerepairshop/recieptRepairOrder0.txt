@@ -1,0 +1,38 @@
+============Reciept============
+Customer Info:
+ -------------------------------
+Name:		ellen
+Phone Number:	0733976999
+Email Address:	ellen.gronholm@hotmail.com
+Bike:
+	 SerialNumber:	23490
+	 Model:		dam
+	 Brand:		helkama
+
+Problem Description: 
+ -------------------------------
+Current bike faults: 
+ - TIRE
+ - BRAKES
+
+
+Diagnostic Report: 
+ -------------------------------
+Current bike faults: 
+ - TIRE
+ - BRAKES
+
+
+Propossed Repairs: 
+ -------------------------------
+Current recommended bike repairs: 
+ - Replace tire: 	200
+ - Fix chain: 	150
+	 total: 	350
+
+===============================
+Date:		Mon Jun 08 23:02:07 CEST 2026
+
+ID:		0
+===============================
+

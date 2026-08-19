@@ -1,0 +1,4 @@
+The object Customer could not be found for the phone number wrong. 
+ Error message: The phone number was not found in the database.
+
+19 maj 2026 17:19:18

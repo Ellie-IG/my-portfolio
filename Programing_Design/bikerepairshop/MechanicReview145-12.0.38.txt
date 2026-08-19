@@ -1,0 +1,28 @@
+Hi Mechanic, there is a new order to be reviewed: 
+============Reciept============
+Customer Info:
+ -------------------------------
+Name:		ellen
+Phone Number:	0733976992
+Email Address:	ellen.gronholm@hotmail.com
+Bike:
+	 SerialNumber:	23490
+	 Model:		dam
+	 Brand:		helkama
+
+Problem Description: 
+ -------------------------------
+Current bike faults: 
+ - TIRE
+ - BRAKES
+
+
+===============================
+Date:		Mon May 25 12:00:38 CEST 2026
+
+ID:		0
+===============================
+
+
+
+25 maj 2026 12:00:38

@@ -1,0 +1,42 @@
+Hi, the order 0 has been fixed by the mechanic and is ready to be reviewed: 
+============Reciept============
+Customer Info:
+ -------------------------------
+Name:		ellen
+Phone Number:	0733976992
+Email Address:	ellen.gronholm@hotmail.com
+Bike:
+	 SerialNumber:	23490
+	 Model:		dam
+	 Brand:		helkama
+
+Problem Description: 
+ -------------------------------
+Current bike faults: 
+ - TIRE
+ - BRAKES
+
+
+Diagnostic Report: 
+ -------------------------------
+Current bike faults: 
+ - TIRE
+ - BRAKES
+
+
+Propossed Repairs: 
+ -------------------------------
+Current recommended bike repairs: 
+ - Replace tire: 	200
+ - Fix chain: 	150
+	 total: 	350
+
+===============================
+Date:		Mon May 25 12:00:38 CEST 2026
+
+ID:		0
+===============================
+
+
+
+25 maj 2026 12:00:38
