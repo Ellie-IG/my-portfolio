@@ -38,5 +38,8 @@ Some of the bigger project for school, for which the course work is allowed to b
 ## Get in touch
 
  [LinkedIn](https://www.linkedin.com/in/ellen-gr%C3%B6nholm-975b2b24a)
+ 
  ellen.gronholm@hotmail.com
+ 
  Stockholm, Sweden
+ 
